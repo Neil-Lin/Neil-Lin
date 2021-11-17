@@ -1,4 +1,4 @@
-![Leonardo gif](https://tenor.com/bEnRn.gif)
+![Leonardo welcome gif](https://i.imgur.com/9CSWeNf.gif)
 
 <!--
 **Neil-Lin/Neil-Lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
