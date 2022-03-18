@@ -1,4 +1,3 @@
-<img src="https://i.imgur.com/9CSWeNf.gif" style="width: 100%; height: auto;"/>
 
 
 <!--
